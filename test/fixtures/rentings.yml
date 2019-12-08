@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+renting:
+  begin_date: 2019-12-08
+  end_date: 2019-12-15
+  client_name: Cliente 1
+
+another_renting:
+  begin_date: 2019-12-16
+  end_date: 2019-12-19
+  client_name: Cliente 2
