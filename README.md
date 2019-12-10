@@ -24,4 +24,4 @@ Aplicação desenvolvida em Ruby on Rails
   
   - Para rodar testes
     - No diretório do projeto, execute:
-      - rails test
+      - rspec --format documentation
